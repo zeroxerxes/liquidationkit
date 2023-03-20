@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://liquidationdeals.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://liquidationdeals.ca/collections/amazon-usa-bulk.atom"/>
+  <title>liquidationdeals.ca</title>
+  <updated>2022-07-15T20:14:44-04:00</updated>
+  <author>
+    <name>liquidationdeals.ca</name>
+  </author>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7724674613503</id>
+    <published>2022-07-15T20:14:44-04:00</published>
+    <updated>2022-07-15T20:14:44-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/health-beauty-1000-items-6"/>
+    <title>Health &amp; Beauty (1000 Items) #6</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-6-liquidationdeals-ca-37604398072063.jpg?v=1657930798"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7724674613503</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7724674318591</id>
+    <published>2022-07-15T20:13:55-04:00</published>
+    <updated>2022-07-15T20:13:55-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/health-beauty-1000-items-5"/>
+    <title>Health &amp; Beauty (1000 Items) #5</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-5-liquidationdeals-ca-37604395778303.jpg?v=1657930611"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7724674318591</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7724673827071</id>
+    <published>2022-07-15T20:12:47-04:00</published>
+    <updated>2022-07-15T20:12:47-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/health-beauty-1000-items-4"/>
+    <title>Health &amp; Beauty (1000 Items) #4</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-4-liquidationdeals-ca-37604393550079.jpg?v=1657930985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7724673827071</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7724673728767</id>
+    <published>2022-07-15T20:11:49-04:00</published>
+    <updated>2022-07-15T20:11:49-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/health-beauty-1000-items-3"/>
+    <title>Health &amp; Beauty (1000 Items) #3</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-3-liquidationdeals-ca-37604392206591.jpg?v=1657930977"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7724673728767</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7724673335551</id>
+    <published>2022-07-15T20:10:34-04:00</published>
+    <updated>2022-07-15T20:10:34-04:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/health-beauty-1000-items-2"/>
+    <title>Health &amp; Beauty (1000 Items) #2</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-2-liquidationdeals-ca-37604389945599.jpg?v=1657930974"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7724673335551</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku/>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://liquidationdeals.ca/products/7508975386879</id>
+    <published>2022-01-12T00:17:22-05:00</published>
+    <updated>2022-01-12T00:17:22-05:00</updated>
+    <link rel="alternate" type="text/html" href="https://liquidationdeals.ca/products/mixed-grocery-health-beauty-16"/>
+    <title>Health &amp; Beauty (1000 Items) #1</title>
+    <s:type>WF</s:type>
+    <s:vendor>liquidationdeals.ca</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0266/6024/1596/products/health-beauty-1000-items-1-liquidationdeals-ca-37604371824895.jpg?v=1657930251"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>liquidationdeals.ca<br>
+        <strong>Type: </strong>WF<br>
+        <strong>Price: </strong>
+            1750.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Total Items per pallet : 1000 Pcs </p>
+<p>Your Cost per item $1.75</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>furniture</s:tag>
+    <s:tag>liquidation</s:tag>
+    <s:tag>pallets</s:tag>
+    <s:tag>wayfair</s:tag>
+    <s:tag>wholesale</s:tag>
+    <s:variant>
+      <id>https://liquidationdeals.ca/products/7508975386879</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">1750.00</s:price>
+      <s:sku></s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

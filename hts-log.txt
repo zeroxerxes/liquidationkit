@@ -1,0 +1,30 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 24 Aug 2022 01:04:10 at https://liquidationdeals.ca/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://liquidationdeals.ca/ -O1 "C:\My Web Sites\https___liquidationdeals.ca_" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:05:23	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/POST (from https://liquidationdeals.ca/)
+01:28:05	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/account/POST (from https://liquidationdeals.ca/account/login)
+01:28:36	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/POST (from https://liquidationdeals.ca/collections/mixed-appliances-liquidation-pallets)
+01:48:01	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/pages/POST (from https://liquidationdeals.ca/pages/contact-us)
+01:53:58	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections['all'].url (from https://liquidationdeals.ca/cart)
+01:55:36	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/products/POST (from https://liquidationdeals.ca/products/copy-of-bulk-electronics-electrics-45-liquidation-pallet-wholesale)
+01:56:09	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/policies/POST (from https://liquidationdeals.ca/policies/refund-policy)
+02:01:09	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/mixed-appliances-liquidation-pallets/products/POST (from https://liquidationdeals.ca/collections/mixed-appliances-liquidation-pallets/products/large-target-case-pack-brand-new-6)
+02:05:57	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/high-count-pallets/products/POST (from https://liquidationdeals.ca/collections/high-count-pallets/products/pallet-amz-high-count-42-liquidation-pallet-wholesale-high-count)
+02:09:45	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/amz-bulk-pallets/products/POST (from https://liquidationdeals.ca/collections/amz-bulk-pallets/products/amz-bulk-general-merchandise-63-liquidation-pallet-wholesale)
+02:11:50	Warning: 	Unexpected socket error during pre-loop
+02:16:51	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/amazon-mega-pallets/products/POST (from https://liquidationdeals.ca/collections/amazon-mega-pallets/products/copy-of-bulk-electronics-electrics-45-liquidation-pallet-wholesale)
+02:21:08	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/liquidation-wholesale-truckloads/products/POST (from https://liquidationdeals.ca/collections/liquidation-wholesale-truckloads/products/amazon-electronics-bulk-truckload-24-pallets)
+02:21:08	Error: 	"Not Found" (404) at link https://liquidationdeals.ca/collections/amazon-usa-bulk/products/POST (from https://liquidationdeals.ca/collections/amazon-usa-bulk/products/health-beauty-1000-items-4)
+02:30:35	Warning: 	Retry after error -4 (No data (connection closed)) at link https://cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257918207_64x76.jpg?v=1661046238 (from https://liquidationdeals.ca/collections/amazon-mega-pallets/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale)
+02:30:35	Warning: 	Retry after error -4 (Receive Error) at link cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220 (from https://liquidationdeals.ca/collections/amazon-mega-pallets/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale)
+02:32:29	Warning: 	Moved Permanently for cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220
+02:32:29	Warning: 	Redirected link is identical because of 'URL Hack' option: cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220 and https://cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220
+02:32:29	Warning: 	Warning moved treated for cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220 (real one is https://cdn.shopify.com/s/files/1/0266/6024/1596/products/bulk-electronics-electrics-28-liquidation-pallet-wholesale-liquidationdeals-ca-37926257361151_64x76.jpg?v=1661048220)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 hours 34 minutes 17 seconds : 3743 links scanned, 3725 files written (334290314 bytes overall) [284648697 bytes received at 50317 bytes/sec], 77490382 bytes transferred using HTTP compression in 711 files, ratio 21%, 28.5 requests per connection
+(13 errors, 6 warnings, 0 messages)
